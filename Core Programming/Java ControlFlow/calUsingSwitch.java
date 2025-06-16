@@ -18,7 +18,7 @@ public class calUsingSwitch {
                     System.out.println("Cannot divide by zero");
                 }
             }
-            default -> System.out.println("Invalid Operator");
+            default -> System.out.println("Invalid Operator ");
         }
     }
 }
