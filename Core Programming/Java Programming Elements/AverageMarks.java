@@ -5,6 +5,6 @@ public class averageMarks {
         int Chemistry = 96;
 
         int average = (Maths+Physics+Chemistry)/3;
-        System.out.println("Sam’s average mark in PCM is  " + average);
+        System.out.println("Sam’s average mark in PCM is :  " + average);
     }
 }
